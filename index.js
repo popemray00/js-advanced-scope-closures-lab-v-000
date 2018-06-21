@@ -1,5 +1,5 @@
-function produceDrivingRange(blockRange) {
-  return function() {
-
+function produceDrivingRange() {
+  return function(blockRange) {
+    
   }
 }
